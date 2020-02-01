@@ -1,0 +1,18 @@
+/*RESET */
+header,
+footer{
+    color:orange;
+    background-color:purple;
+
+}
+
+article:first-child{
+
+    border: 60px dashed green;
+
+}
+article{
+
+    border: 60px dashed black
+
+}
